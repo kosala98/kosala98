@@ -1,13 +1,6 @@
 ### Hi,Hello there 👋
 
-
-
-<h1 align="center">Hi 👋, I'm Kosala Dayarathna</h1>
-<h3 align="center">Developer 👨‍💻 | SE Graduate</h3>
-
-- 🌱 I’m currently learning **Back-end WEB Development**
-
-- 📫 How to reach me **dayarathnekosala90@gmail.com**
+I am Kosala Dayarathne. Software Engineering Graduate with a keen interest in Information Technology and Software development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

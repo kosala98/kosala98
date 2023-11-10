@@ -1,6 +1,6 @@
 ### Hi,Hello there 👋
 
-I am Kosala Dayarathne. Software Engineering Graduate with a keen interest in Information Technology and Software development.
+I am Kosala Dayarathne. Software Engineering Graduate with a keen interest in Information Technology and Software Development.
 
 ### Connect with me via :
 <div align="center">
